@@ -1,2 +1,8 @@
 # ML-Mat-VAMP (Multi Layer - Matrix - VAMP)
-Code for NeurIPS 2020 paper titled "Inference and Estimation in Multi-Layer Models"
+
+This work titled "Inference and Estimation in Multi-Layer Models" has been accepted at NeurIPS 2020. The code will be coming soon.
+
+```
+@inproceedings{
+}
+```
