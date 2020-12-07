@@ -22,8 +22,8 @@ python plot.py
 
 # Run your own experiments to plot results
 
-```
-# Run experiments for Adam using Keras
+
+# Run experiments for Adam. This uses Keras
 The following creates files adam_snr10_0.pkl and adam_snr15_0.pkl
 ```
 python diy_expts/2layer_adam.py --act relu --snr 10.0
