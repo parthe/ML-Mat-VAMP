@@ -41,7 +41,9 @@ where k takes values in {0,1,..K-1}. The above command creates the file adam_snr
 python diy_expts/2layer_ml-mat-vamp.py --act relu --snr 10.0
 python diy_expts/2layer_ml-mat-vamp.py --act relu --snr 15.0
 ```
+
 # Run experiments for State Evolution of ML-Mat-VAMP
+```
 python diy_expts/2layer_ml-mat-vamp.py --se_test --act relu --snr 10.0
 python diy_expts/2layer_ml-mat-vamp.py --se_test --act relu --snr 15.0
 ```
