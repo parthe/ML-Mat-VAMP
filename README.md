@@ -13,8 +13,8 @@ Code to reproduce results from **Matrix Inference and Estimation in Multi-Layer 
 ```
 
 # Dependencies
-tensorflow >= 2.3.1
-scikit-Learn
+tensorflow >= 2.3.1  
+scikit-learn  
 matplotlib
 
 # Plot results using stored data from our simulations
