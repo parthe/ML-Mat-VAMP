@@ -26,12 +26,12 @@ python plot.py
 # Run your own experiments to plot results
 To run multiple experiments:
 ```
-python diy_expts/2layer_<algorithm>.py --act relu --snr 10.0 --fn_suffix k
+python diy_expts/2layer_ALGO.py --act relu --snr 10.0 --fn_suffix k
 ```
-for k = 0,1,..K-1. 
-The above command creates the file adam_snr10_k.pkl
-By default k=0.
-<algorithm> can be adam or ml-mat-vamp
+for k = 0,1,..K-1.  
+The above command creates the file adam_snr10_k.pkl  
+By default k=0.  
+ALGO can be 'adam' or 'ml-mat-vamp'
 
 # Run experiments for Adam. This uses Keras
 The following creates files adam_snr10_0.pkl and adam_snr15_0.pkl
