@@ -1,6 +1,6 @@
 # ML-Mat-VAMP (Multi-layer - Matrix - VAMP)
 
-This repository provides the code to reproduce the results from the paper "Matrix Inference and Estimation in Multi-Layer Models", NeurIPS 2020.
+Code to reproduce results from **Matrix Inference and Estimation in Multi-Layer Models**, *NeurIPS 2020.*
 
 ```
 @article{pandit2020matrix,
