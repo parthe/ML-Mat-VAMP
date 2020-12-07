@@ -13,7 +13,9 @@ This repository provides the code to reproduce the results from the paper "Matri
 ```
 
 # Dependencies
-Tensorflow >= 2.3.1
+tensorflow >= 2.3.1
+scikit-Learn
+matplotlib
 
 # Plot results using stored data from our simulations
 
